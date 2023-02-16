@@ -3,6 +3,7 @@
 <p>- I'm doing this project for fun and want to know how to create an application like this.</p>
 <p>- I'll try to add some necessary function and upload an <strong>.exe</strong> file instead of <strong>.py</strong> file.</p>
 <p><strong>P/s: Any helps to improve application will be welcomed.</strong></p>
+<p><strong>P/s 2: My English is not really good so if those sentences have any grammar errors, I'm sorry to make you suffer for reading it.</strong></p>
 <hr>
 
 <h1>TUTORIAL</h1><br>
